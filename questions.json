@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What does HTML stand for?",
+        "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlink and Text Markup Language"],
+        "correct": 0
+    },
+    {
+        "question": "Which HTML tag is used to create a hyperlink?",
+        "options": ["<link>", "<a>", "<href>", "<url>"],
+        "correct": 1
+    },
+    {
+        "question": "What is the correct HTML element for the largest heading?",
+        "options": ["<h1>", "<heading>", "<h6>", "<head>"],
+        "correct": 0
+    },
+    {
+        "question": "Which attribute is used to provide an alternative text for an image in HTML?",
+        "options": ["title", "alt", "src", "href"],
+        "correct": 1
+    },
+    {
+        "question": "What is the purpose of the <div> tag in HTML?",
+        "options": ["To create a division or section in a web page", "To define a hyperlink", "To insert an image", "To create a list"],
+        "correct": 0
+    },
+    {
+        "question": "Which CSS property is used to change the text color of an element?",
+        "options": ["font-color", "text-color", "color", "background-color"],
+        "correct": 2
+    },
+    {
+        "question": "What does CSS stand for?",
+        "options": ["Computer Style Sheets", "Creative Style Sheets", "Cascading Style Sheets", "Colorful Style Sheets"],
+        "correct": 2
+    },
+    {
+        "question": "Which JavaScript method is used to select an HTML element by its ID?",
+        "options": ["getElementById()", "querySelector()", "getElementsByClassName()", "getElementByTagName()"],
+        "correct": 0
+    },
+    {
+        "question": "What is the correct way to comment in JavaScript?",
+        "options": ["// This is a comment", "<!-- This is a comment -->", "/* This is a comment */", "# This is a comment"],
+        "correct": 0
+    },
+    {
+        "question": "Which HTML tag is used to define an unordered list?",
+        "options": ["<ol>", "<ul>", "<li>", "<list>"],
+        "correct": 1
+    }
+]
